@@ -1,4 +1,6 @@
 # Atomic: /usr/bin/atomic
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fboeyeb%2Fatomic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fboeyeb%2Fatomic?ref=badge_shield)
+
 
 This project defines the entrypoint for Project Atomic hosts.  On an
 Atomic Host, there are at least two distinct software
@@ -133,3 +135,7 @@ WantedBy=multi-user.target
 ```
 
 For an explaination of the Atomic scan JSON output, see the JSON [specification document](README-atomic-scan.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fboeyeb%2Fatomic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fboeyeb%2Fatomic?ref=badge_large)
